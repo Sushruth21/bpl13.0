@@ -1,0 +1,51 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: white;
+}
+
+.login_div_new
+{
+	background: lightskyblue;float: none;border-radius: 15px;
+
+}
+.login_div
+{
+	background: lightskyblue;float: none;border-radius: 15px;
+	width: 500px;
+	height: 100px;;
+}
+.login_div1
+{
+	background: lightskyblue;float: none;border-radius: 15px;
+	width: 500px;
+	height: 50px;;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+#discription{
+width: 60%;
+}
+#scorecard{
+	width: 60%;
+
+}
+div.ex1 {
+	overflow: scroll;
+}
+#bodyimg{
+	background-image: url('background.jpeg');
+}
+#getdet{
+	background-color: gainsboro;
+	width: 150px;
+	height: 30px;
+	font-weight: bold;
+}
